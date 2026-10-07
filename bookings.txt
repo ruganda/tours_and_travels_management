@@ -1,0 +1,4 @@
+Mubarak|Murchison Falls National Park|2|2026-12-15|1000000.0|0.0|150000.0|1150000.0
+Isiah|Queen Elizabeth National Park|4|2027-01-12|1800000.0|0.0|0.0|1800000.0
+John|Bwindi Impenetrable Forest|5|2027-01-10|3000000.0|300000.0|0.0|2700000.0
+Doe|Murchison Falls National Park|2|2026-12-10|1000000.0|0.0|150000.0|1150000.0
